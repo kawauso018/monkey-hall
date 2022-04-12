@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Monkey Hall</string>
+    <string name="monkey_choice1">ようこそ！\n私は司会のモンキー・ホールです！\n箱のひとつにバナナが入ってます。\n箱をタップして選んでください。</string>
+    <string name="monkey_choice2">選択されていない箱をひとつ開けました。\n箱を選びなおすことができます。\nそのままでもかまいません。最終的な箱を選択してください。</string>
+    <string name="monkey_success">おめでとうございます！！アタリです！\nバナナか箱をタップすると最初から始まります。</string>
+    <string name="monkey_failure">ハズレです…\nピーマンか箱をタップすると最初から始まります。</string>
+    <string name="banana_result">挑戦数 %1$d回\n獲得バナナ %2$d個\n獲得割合 %3$d%%</string>
+    <string name="name_title">Let\'s make a choice !!</string>
+</resources>
